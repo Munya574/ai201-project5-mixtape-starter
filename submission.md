@@ -309,7 +309,9 @@ All fixes have been verified through direct testing of the affected functions:
 
 ## Commits
 
-The following commits should be created (manually):
+The following commits have been created on the `bugfix/mixtape` branch:
+
+![Git log showing all bug fix commits](git-log.png)
 
 1. `fix: remove incorrect Sunday check in streak increment logic`
 2. `fix: filter Friends Listening Now by calendar date instead of 24-hour window`
